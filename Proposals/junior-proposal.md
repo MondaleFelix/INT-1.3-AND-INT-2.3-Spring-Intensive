@@ -6,23 +6,33 @@ Dates 3/16-3/25
 
 **My Name:** 
 
+Mondale Felix
 
 **Project Name:** 
 
+Metro Time App
 
 **Is your project New or Old?**
 
+Old
 
 **Is your project Solo or Team?**
 
+Solo
 
 ## Description
 
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
 
+Currently, project is built using storyboards. I want to build it programatically and clean up the UX
+
 ## Challenges I Anticipate
 
 **List out the challenges you anticipate for completing this project**
+
+• how to grab the users locations based on iphone location
+• Using the codable protocol to grab data from an api
+
 
 ## Skateboard
 
@@ -30,12 +40,17 @@ Dates 3/16-3/25
 
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
+Build out Table View Programatically
+
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+
+Display data pulled from api with a hard coded locations
 
 ## Car
 **ONE additional feature** 
 
+Display data pulled from api with users location
 
 ## Personal Achievement Goals:
 
@@ -43,9 +58,9 @@ Dates 3/16-3/25
 
 ### Teammate 1
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
+1. Learn how to use the Codable protocol
+1. Learn how to grab users location from iphone
+1. Practice making better designs
 
 ### Teammate 2
 
@@ -94,6 +109,6 @@ Dates 3/16-3/25
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Mondale Felix / March 16, 2020
 **Make School Advisor Name**
 > TBD
